@@ -1,0 +1,17 @@
+AI USE DISCLOSURE
+
+Name: Fiona C. Vejerano
+Program and Year: BS ChE - 2B
+Subject: Chem 13 - Organic Chemistry (Lecture)
+
+I. AI Tool Used
+Claude (claude.ai)
+
+II. Purpose of Usage
+- AI was used to verify the condensed structural formulas used in the output.
+- AI was not used to write, condense, or reformat any other part of the work.
+
+III. Basis of the Content
+- Most of the necessary information was taken from the course modules or slides during lectures provided by the instructor.
+- Where additional help was needed, trusted external sources such as PubChem and the National Institutes of Health (NIH) were referred to.
+- The output was done using Ketcher, MolView (when building molecular structures became challenging), and Canva.
