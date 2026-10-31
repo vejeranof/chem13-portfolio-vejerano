@@ -1,0 +1,8 @@
+AI USE DISCLOSURE
+
+I. AI Tool Used: Claude (claude.ai)
+
+II. Purpose of Usage:
+- Condensing of written content for conciseness
+- Reformatting sources used into APA 7th ED citation style
+- Explaining complex scientific and chemical concepts (e.g. Given the value of n g/mL, is the compound highly polar or nonpolar?)
